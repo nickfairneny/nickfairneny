@@ -3,7 +3,6 @@ layout: page
 title: "fancifymytext"
 permalink: /fancifymytext
 ---
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Fancify Shamcify</title>
